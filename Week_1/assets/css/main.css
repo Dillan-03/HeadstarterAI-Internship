@@ -2601,9 +2601,12 @@ input, select, textarea {
 		}
 
 		.work-item p {
-			font-size: 1.8em;
+			font-size: 1.2em;
 			line-height: 1.5em;
 			margin: 0;
+		}
+		.work-item p, p{
+			font-size: 1.2em;
 		}
 
 /* Header */
